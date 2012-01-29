@@ -1,0 +1,11 @@
+
+AIR_readme.txt
+
+AirAs3Project.as3proj
+
+*.bat
+*.fla
+*.swf
+
+.DS_Store
+application.xml
